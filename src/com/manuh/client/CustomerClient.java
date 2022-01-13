@@ -17,8 +17,8 @@ public class CustomerClient {
 				LocalDate.of(2021, 05, 25), 200, 4);
 		CustomerDetails c1 = new CustomerDetails(19, 120, "Minnie", "Mouse", "8309144358", "Visakhapatnam", 530016,
 				LocalDate.of(2021, 12, 21), 150, 2);
-		CustomerDetails c2 = new CustomerDetails(191, 220, "Pluto", "Moni", "9988776655", "Paderu", 500016,
-				LocalDate.of(2021, 12, 20), 5, 450);
+//		CustomerDetails c2 = new CustomerDetails(191, 220, "Pluto", "Moni", "9988776655", "Paderu", 500016,
+//				LocalDate.of(2021, 12, 20), 5, 450);
 
 //		System.out.println(c);
 //		System.out.println(c1);
